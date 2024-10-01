@@ -73,7 +73,7 @@ This project demonstrates the application of various data science and machine le
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/spacex-launch-prediction.git
+   git clone https://github.com/KeshavSingh/spacex-launch-prediction.git
 2. Navigate to the project folder:
    ```bash
    cd spacex-launch-prediction
